@@ -2,4 +2,4 @@ module Main exposing (..)
 
 import Html exposing (text)
 
-main = text "whatever"
+main = text "An Elm starter app."
